@@ -1,0 +1,10 @@
+ATFEditor
+Copyright (c) 2026 AT.field. All rights reserved.
+
+This application is proprietary software unless a separate written license says
+otherwise.
+
+This application includes third-party open-source components. Their notices are
+provided in THIRD_PARTY_LICENSES.txt and in the app under:
+
+Settings > Open Source Licenses
